@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, high-performance task tracker with priority tags, categories, subtasks, progress analytics, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

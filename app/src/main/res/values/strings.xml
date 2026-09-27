@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="tasks_title">My Tasks</string>
+    <string name="search_placeholder">Search tasks, tags, notes…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_today">Today</string>
+    <string name="filter_upcoming">Upcoming</string>
+    <string name="filter_completed">Completed</string>
+    <string name="add_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="delete_task">Delete</string>
+    <string name="no_tasks">No tasks found</string>
+    <string name="no_tasks_tip">Tap the + button to stay organized and productive!</string>
+</resources>
